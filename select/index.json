@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "激動",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-03-20T22:26:51.134803Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "激動",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_激動_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "激動 (AwakEVE ver.)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_激動_(AwakEVE_ver.)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "激動（AwakEVE ver.）",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/03_激動(AwakEVE_ver.)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "激動",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/04_激動_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "激動 (Album Version)",
+      "artist": "刘德华",
+      "has_synced": false,
+      "path": "select/05_激動_(Album_Version)_刘德华.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "激動",
+      "artist": "劉德華",
+      "has_synced": false,
+      "path": "select/06_激動_劉德華.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "激動(AwakEVE ver.)",
+      "artist": "ウーバーワールド UVERworld",
+      "has_synced": true,
+      "path": "select/07_激動(AwakEVE_ver.)_ウーバーワールド_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "激動 KING’S PARADE 男祭り FINAL at TOKYO DOME 2019.12.20",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/08_激動_KING’S_PARADE_男祭り_FINAL_at_TOKYO_DOME_2019.12.20_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "05. 激動",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/09_05._激動_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "激動",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_激動_UVERworld.txt"
+    }
+  ]
+}
